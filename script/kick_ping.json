@@ -1,0 +1,9 @@
+{
+  "name": "kick_ping",
+  "description": "kick ping command",
+  "path": "/path/to/scirpt/kick_ping.js",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://xxxxxxxxxxxxxxxxxxx/"
+  ]
+}

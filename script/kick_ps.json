@@ -1,0 +1,9 @@
+{
+  "name": "kick_ps",
+  "description": "kick ps command",
+  "path": "/path/to/scriptkick_ps.js",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://xxxxxxxxxxxxxxxxxxxxx/"
+  ]
+}

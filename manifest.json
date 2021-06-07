@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Use Native Messaging",
+  "version": "1.0",
+  "description": "try to use native messaging",
+  "browser_action": {
+    "default_icon": "icon128.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "nativeMessaging"
+  ],
+  "icons" : {
+    "128": "icon128.png"
+  }
+}
