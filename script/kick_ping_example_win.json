@@ -1,0 +1,9 @@
+{
+  "name": "kick_ping",
+  "description": "kick ping command",
+  "path": "C:\\path\\to\\batchfile\\kick_ping_win.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://xxxxxxxxxxxxxxxxxxx/"
+  ]
+}
